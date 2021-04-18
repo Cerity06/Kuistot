@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Geek",
+        "synopsys": "Qu'est-ce qu'un Geek ?",
+        "body": "Un geek [ɡik]1 (de l'anglais : [ɡiːk]2 Écouter) est une personne passionnée par un ou plusieurs domaines précis, le plus souvent pour les domaines liés aux « cultures de l'imaginaire » (certains genres du cinéma, la bande dessinée, les jeux vidéo, les jeux de rôles, etc.), ou encore aux sciences, à la technologie et l'informatique. Cette définition est celle qui ressort le plus souvent, bien qu'elle puisse varier d'un individu à l'autre. Au féminin, le terme « geekette » est souvent employé.",
+        "id": 1
+    }, 
+    {
+        "title": "Efficience en entreprise", 
+        "synopsys": "L'efficience permet à une société de prévoir si une décision dégagera des gains. Une différence subtile existe entre efficience et l'efficacité.", 
+        "body": "efficience désigne le rapport entre les résultats obtenus et les ressources utilisées pour atteindre ces résultats. Par exemple, l'efficience d'une entreprise consiste en sa capacité à livrer un produit avec le minimum de ressources financières.L'efficience permet ainsi à une société de prévoir si telle ou telle décision dégagera des gains (ou engendrera des pertes). En gestion, le seuil de rentabilité est l'outil d'évaluation privilégié pour envisager l'efficience d'une organisation et étudier sa performance. Elle peut également être mesurée au travers de la valeur actuelle nette (ou VAN), du taux de rentabilité interne (ou TRI) ou encore du délai de récupération. ",
+        "id": 2
+    }, 
+    {
+        "title": "Compréhension des concepts d'efficience", 
+        "synopsys": "Qu'est-ce que l'efficience ?", 
+        "body": "Dans sa plus simple expression, l'efficience indique à quel point une organisation utilise bien ses ressources pour produire des biens et des services. L'efficience est donc un concept axé sur les ressources (intrants), les biens et services (extrants) et le rythme auquel on utilise les intrants pour produire ou offrir les extrants (productivité). Pour vraiment comprendre le concept d'efficience, il faut comprendre les expressions intrants, extrants (aspects quantité et qualité), productivité et niveau de service.",
+        "id": 3
+    },
+    {
+        "title": "Économie, efficience et efficacité", 
+        "synopsys": "L’économie, l’efficience et l’efficacité sont des concepts étroitement liés.", 
+        "body": "L’économie, l’efficience et l’efficacité sont des composantes essentielles d’une saine gestion de programme, laquelle a pour but d’atteindre les objectifs de programme définis dans les politiques publiques, les règlements et les lois. En pratique, cela signifie que les gestionnaires de programmes et les fonctionnaires à qui sont confiées des ressources publiques doivent remplir leur fonctions et fournir des services au public de manière efficace, efficiente et économique. La figure 2 montre le rôle que jouent les « 3 E » dans la gestion des programmes du secteur public ainsi que les liens entre eux.",
+        "id": 4
+    }, 
+    {
+        "title": "Efficacité vs efficience ?", 
+        "synopsys": "Il n’est pas rare pour quiconque de mélanger les concepts d’efficacité et d’efficience qui pourtant sont assez différents.", 
+        "body": "L’efficacité se mesure dans l’atteinte de résultat. Si vous obtenez le résultat escompté, vous êtes efficace. Quant à l’efficience, elle tient compte des moyens utilisés pour obtenir le résultat. Vous obtenez le résultat escompté avec des ressources moindres, vous êtes plus efficient (tout en demeurant efficace bien sûr). L’efficience est synonyme de productivité.L’efficience est extrêmement importante pour une entreprise. Fondamentalement, l’entreprise met en œuvre des ressources pour fabriquer et livrer des services et des produits. L’efficience doit donc être au cœur des préoccupations des dirigeants et des employés. Une entreprise efficiente produit plus avec moins d’efforts.",
+        "id": 5
+    }, 
+    {
+        "title": "Efficacité vs efficience ?", 
+        "synopsys": "Il n’est pas rare pour quiconque de mélanger les concepts d’efficacité et d’efficience qui pourtant sont assez différents.", 
+        "body": "L’efficacité se mesure dans l’atteinte de résultat. Si vous obtenez le résultat escompté, vous êtes efficace. Quant à l’efficience, elle tient compte des moyens utilisés pour obtenir le résultat. Vous obtenez le résultat escompté avec des ressources moindres, vous êtes plus efficient (tout en demeurant efficace bien sûr). L’efficience est synonyme de productivité.L’efficience est extrêmement importante pour une entreprise. Fondamentalement, l’entreprise met en œuvre des ressources pour fabriquer et livrer des services et des produits. L’efficience doit donc être au cœur des préoccupations des dirigeants et des employés. Une entreprise efficiente produit plus avec moins d’efforts.",
+        "id": 6
+    }
+]

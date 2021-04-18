@@ -1,0 +1,41 @@
+.list_articles {
+  display: grid;
+  grid-gap: 50px 50px;
+  grid-template-columns: auto auto auto;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo h1 {
+  margin: 0 1rem;
+  color: rgb(5, 20, 105);
+}
+
+.links {
+  display: flex; 
+  justify-content: flex-end;
+  align-items: center;
+  flex: 1;
+}
+
+.links li {
+  list-style-type: none;
+  cursor: pointer;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 1rem 2rem;
+  padding: 0.5rem;
+}
+
+.not_found {
+  text-align: center;
+}
+
+.not_found a {
+  color: #4979ff;
+  text-decoration: underline;
+}
+
